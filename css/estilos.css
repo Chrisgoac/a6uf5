@@ -1,0 +1,35 @@
+form{
+    border: 1px black solid;
+    padding: 25px;
+}
+#fieldsetBasicInfo{
+    background-color: lightcoral;
+}
+#fieldsetNacionalidad{
+    background-color: greenyellow;
+}
+#fieldsetEstudios{
+    background-color: pink;
+}
+#fieldsetLang{
+    background-color: cyan;
+}
+#verde {
+    color: green;
+}
+#fieldsetEnviar{
+    background-color: gray;
+    margin-top: 10px;
+}
+#azul{
+    color: blue;
+}
+#naranja{
+    color: orange;
+}
+#rojo{
+    color: red;
+}
+#estudios{
+    text-decoration: underline;
+}
